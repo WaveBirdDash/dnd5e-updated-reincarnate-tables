@@ -7,7 +7,7 @@ _Level 5 Necromancy (Druid)_
 
 **Casting Time:** 1 hour\
 **Range:** Touch\
-**Components:** V, S, M (rare oils with 1,000+ GP, which the spell consumes)\
+**Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)\
 **Duration:** Instantaneous
 
 You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll on the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
