@@ -50,8 +50,6 @@ _Mythic Odysseys of Theros_ © 2020 Wizards of the Coast LLC.
 
 _Fizban's Treasury of Dragons_ © 2021 Wizards of the Coast LLC.
 
-_Van Richten's Guide to Ravenloft_ © 2021 Wizards of the Coast LLC.
-
 _Dragonlance: Shadow of the Dragon Queen_ © 2022 Wizards of the Coast LLC.
 
 _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
@@ -65,6 +63,8 @@ _Eberron: Forge of the Artificer_ © 2025 Wizards of the Coast LLC.
 _Forgotten Realms: Heroes of Faerûn_ © 2025 Wizards of the Coast LLC.
 
 _Lorwyn: First Light_ © 2025 Wizards of the Coast LLC.
+
+_Ravenloft: The Horrors Within_ © 2026 Wizards of the Coast LLC.
 
 ---
 

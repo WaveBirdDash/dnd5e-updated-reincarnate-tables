@@ -56,27 +56,28 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 35 | Lizardfolk[^👹] |
 | 36 | Locathah[^🐟] |
 | 37 | Loxodon[^🏙️] |
-| 38 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
-| 39 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
-| 40 | Naga[^☥] |
-| 41 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
-| 42 | Owlin[^🎓] |
-| 43 | Plasmoid[^🛸] |
-| 44 | Rimekin[^🌄] |
-| 45 | Reborn[^🌫️] |
-| 46 | Satyr[^👹] |
-| 47 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 48 | Simic Hybrid[^🏙️] |
-| 49 | Siren[^🦕] |
-| 50 | Tabaxi[^👹] |
-| 51 | Thri-kreen[^🛸] |
-| 52 | Tiefling (roll on **[Tieflings](tieflings.md)** table for setting) |
-| 53 | Tortle[^👹] |
-| 54 | Triton[^👹] |
-| 55 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 56 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 57 | Warforged[^⚒️] |
-| 58 | Yuan-ti[^👹] |
+| 38 | Lupin[^🌫️] |
+| 39 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
+| 40 | Minotaur (roll on **[Minotaur](#minotaur)** table for ancestry) |
+| 41 | Naga[^☥] |
+| 42 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
+| 43 | Owlin[^🎓] |
+| 44 | Plasmoid[^🛸] |
+| 45 | Rimekin[^🌄] |
+| 46 | Reborn[^🌫️] |
+| 47 | Satyr[^👹] |
+| 48 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 49 | Simic Hybrid[^🏙️] |
+| 50 | Siren[^🦕] |
+| 51 | Tabaxi[^👹] |
+| 52 | Thri-kreen[^🛸] |
+| 53 | Tiefling (roll on **[Tieflings](tieflings.md)** table for setting) |
+| 54 | Tortle[^👹] |
+| 55 | Triton[^👹] |
+| 56 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 57 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 58 | Warforged[^⚒️] |
+| 59 | Yuan-ti[^👹] |
 
 #### Aasimar
 | d5 | Ancestry |
@@ -178,11 +179,11 @@ The reincarnated creature makes any choices that a species' description offers, 
 [^🕰️]: Source: _Plane Shift: Kaladesh_
 [^🌴]: Source: _Plane Shift: Zendikar_
 [^🔰2️⃣]: Source: _Player's Handbook (2024)_
+[^🌫️]: Source: _Ravenloft: The Horrors Within_
 [^🛸]: Source: _Spelljammer: Adventures in Space_
 [^🎓]: Source: _Strixhaven: Curriculum of Chaos_
 [^📒1️⃣]: Source: _SRD 5.1_
 [^📒2️⃣]: Source: _SRD 5.2_
-[^🌫️]: Source: _Van Richten's Guide to Ravenloft_
 [^🪽]: The Aasimar was updated in _Player's Handbook (2024)_ to remove ancestry selection. The Aasimar is not mechanically equivalent to any single prior Aasimar option.
 [^🎭]: The Lorwyn Changeling is mechanically equivalent to a Changeling in _Mordenkainen Presents: Monsters of the Multiverse_.
 [^☄️]: The Flamekin is mechanically equivalent to a Fire Genasi in _Elemental Evil Player's Companion_.
