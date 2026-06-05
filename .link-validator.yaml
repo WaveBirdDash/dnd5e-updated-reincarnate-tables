@@ -1,0 +1,5 @@
+validators:
+  localPath:
+    enabled: true
+  http:
+    enabled: false
