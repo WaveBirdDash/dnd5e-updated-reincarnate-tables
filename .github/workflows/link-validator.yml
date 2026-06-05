@@ -1,0 +1,29 @@
+name: Link Validator
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  link-validator:
+    name: Link Validator
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Get Markdown files
+        id: get-files
+        shell: bash
+        run: |
+          FILES_LIST=$(find docs/ -name "*.md" | sort | tr '\n' ',' | sed 's/,$//')
+          echo "files=$FILES_LIST" >> $GITHUB_OUTPUT
+      - name: Run Link Validator
+        uses: your-ko/link-validator@2.4.0
+        with:
+          files: ${{ steps.get-files.outputs.files}}
+          fileMasks: "*.md"
+          logLevel: warn
+          lookupPath: ./docs
