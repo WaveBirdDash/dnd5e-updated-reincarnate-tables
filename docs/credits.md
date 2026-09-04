@@ -66,6 +66,8 @@ _Lorwyn: First Light_ © 2025 Wizards of the Coast LLC.
 
 _Ravenloft: The Horrors Within_ © 2026 Wizards of the Coast LLC.
 
+_D&D Beyond Drops_ © 2026 Wizards of the Coast LLC.
+
 ---
 
 | ⬅️ [Rules Definitions](rules-definitions.md) | [Licensing](licensing.md) ➡️ |
