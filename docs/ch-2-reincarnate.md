@@ -17,7 +17,7 @@ The dead creature or piece of one can be any creature type represented by a spec
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
 ### Reincarnation Options
-| d58 | Species |
+| d60 | Species |
 |:---:|:-|
 | 1  | If the creature's species is not represented on this table, the body is the same species as it was when it died. If the creature's species is on this table, or if this table is being used to generate a new character's species, roll again. |
 | 2  | Aarakocra[^🙈] |
