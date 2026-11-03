@@ -8,7 +8,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 ## How to use these tables
 
-1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Aberration**, **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
+1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Aberration**, **Construct**, **Dragon**, **Fey**, **Humanoid**, **Monstrosity**, **Ooze**, or **Undead**.
 2. After casting _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
 3. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
 4. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
@@ -27,9 +27,15 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
+**The Tauren lineages are grouped as a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren in _Dungeons & Dragons: World of Warcraft_ is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
+
 ### Separating
 
 **Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
+
+### Multiple listings
+
+**The Mechagnome is both an updated Autognome and grouped as an Azeroth Gnome lineage.** This reflects the Mechagnome's designation as a Gnome lineage in _Dungeons & Dragons: World of Warcraft_, while also recognizing that it is mechanically an updated Autognome, which does not have lineage affiliations with Gnomes in _Spelljammer: Adventures in Space_.
 
 ### Sourcing
 
