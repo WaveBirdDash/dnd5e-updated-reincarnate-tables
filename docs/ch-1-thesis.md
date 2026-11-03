@@ -33,6 +33,10 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
 
+### Multiple listings
+
+**The Mechagnome is both an updated Autognome and grouped as an Azeroth Gnome lineage.** This reflects the Mechagnome's designation as a Gnome lineage in _Dungeons & Dragons: World of Warcraft_, while also recognizing that it is mechanically an updated Autognome, which does not have lineage affiliations with Gnomes in _Spelljammer: Adventures in Space_.
+
 ### Sourcing
 
 **If a species is available in multiple books, one official source will be referenced in a footnote, prioritized by cost and modernity.** The source of choice will be based on the following methodology from highest to lowest priority:
@@ -49,10 +53,6 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 **Species with limited options within a given setting roll first for setting, then for either multiverse variant or setting-specific variant.** When a species has limited variant options in one or more settings, a roll is first made to determine the setting, with a multiverse table including all options from _SRD_ or _Player's Handbook_ plus options that do not imply or assume a setting, followed by a separate table per setting. Setting tables are limited to the variant options found in their respective settings. If the GM determines that only a setting's given options are available, roll on the setting-specific variant table. If a setting's options are identical to the multiverse options, or the GM wishes to not use setting-specific options, roll on the multiverse table.
 
 **If a setting book mentions that all options from a specific resource for a given species are available, then the table for each species will include options across all versions of those resources when they differ over time.** This accounts for setting books that attempt to make default species options freely available while considering that these resources are updated over time. When the resource mentioned is a _Player's Handbook_, options from each _SRD_ will also be included.
-
-#### Azeroth
-
-**The Mechagnome is both an updated Autognome and a Gnome lineage.** This reflects the Mechagnome's designation as a Gnome lineage in _Dungeons & Dragons: World of Warcraft_, while also recognizing that it is mechanically an updated Autognome, which does not have lineage affiliations with Gnomes in _Spelljammer: Adventures in Space_.
 
 #### Eberron
 
