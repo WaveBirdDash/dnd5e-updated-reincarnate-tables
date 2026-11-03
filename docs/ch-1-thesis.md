@@ -27,6 +27,8 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
+**The Tauren is a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
+
 ### Separating
 
 **Species adapted from other species with no connections in lore are listed as separate entries.** This includes the Flamekin from _Lorwyn: First Light_, which uses the Fire Genasi for its traits but is otherwise narratively unrelated to Genasi. A footnote will list how these adapted species are mechanically connected to their source species.
@@ -51,8 +53,6 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 #### Azeroth
 
 **The Mechagnome is both an updated Autognome and a Gnome lineage.** This reflects the Mechagnome's designation as a Gnome lineage in _Dungeons & Dragons: World of Warcraft_, while also recognizing that it is mechanically an updated Autognome, which does not have lineage affiliations with Gnomes in _Spelljammer: Adventures in Space_.
-
-**The Tauren is a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
 
 #### Eberron
 
