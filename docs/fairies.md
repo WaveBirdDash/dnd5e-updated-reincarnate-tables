@@ -14,8 +14,8 @@
 
 ---
 
-| ⬅️ Back to [Reincarnation Options](ch-2-reincarnate.md) |
-|-:|
+| ⬆️ [Reincarnation Options](ch-2-reincarnate.md) | 🏡 [Home(index.md)] |
+|:-|:-:|
 
 ---
 
