@@ -68,6 +68,8 @@ _Ravenloft: The Horrors Within_ © 2026 Wizards of the Coast LLC.
 
 _D&D Beyond Drops_ © 2026 Wizards of the Coast LLC.
 
+_Dungeons & Dragons: World of Warcraft_ © 2026 Wizards of the Coast LLC and Blizzard Entertainment, Inc.
+
 ---
 
 | ⬅️ [Rules Definitions](rules-definitions.md) | [Licensing](licensing.md) ➡️ |
