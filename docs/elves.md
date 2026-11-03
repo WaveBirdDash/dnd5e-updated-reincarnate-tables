@@ -1,17 +1,18 @@
 # Elves
 
 ### Elves
-| d9 | Setting |
+| d10 | Setting |
 |:-:|:-|
-| 1 | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
-| 2 | Dragonlance Elf (roll on **[Dragonlance Elves](#dragonlance-elves)** table for variant) |
-| 3 | Eberron Elf (roll on **[Eberron Elves](#eberron-elves)** table for variant) |
-| 4 | Exandrian Elf (roll on **[Exandrian Elves](#exandrian-elves)** table for variant) |
-| 5 | Forgotten Realms Elf (roll on **[Forgotten Realms Elves](#forgotten-realms-elves)** table for variant) |
-| 6 | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
-| 7 | Lorwyn-Shadowmoor Elf (roll on **[Lorwyn-Shadowmoor Elves](#lorwyn-shadowmoor-elves)** table for variant) |
-| 8 | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
-| 9 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
+| 1  | Elf of the Multiverse (roll on **[Elven Lineages](#elven-lineages)** table for lineage) |
+| 2  | Azeroth Elf (roll on **[Azeroth Elven Lineages](#azeroth-elven-lineages)** table for lineage) |
+| 3  | Dragonlance Elf (roll on **[Dragonlance Elves](#dragonlance-elves)** table for variant) |
+| 4  | Eberron Elf (roll on **[Eberron Elves](#eberron-elves)** table for variant) |
+| 5  | Exandrian Elf (roll on **[Exandrian Elves](#exandrian-elves)** table for variant) |
+| 6  | Forgotten Realms Elf (roll on **[Forgotten Realms Elves](#forgotten-realms-elves)** table for variant) |
+| 7  | Kaladesh Elf (roll on **[Kaladesh Elves](#kaladesh-elves)** table for variant) |
+| 8  | Lorwyn-Shadowmoor Elf (roll on **[Lorwyn-Shadowmoor Elves](#lorwyn-shadowmoor-elves)** table for variant) |
+| 9  | Ravnica Elf (roll on **[Ravnica Elves](#ravnica-elves)** table for variant) |
+| 10 | Zendikar Elf (roll on **[Zendikar Elves](#zendikar-elves)** table for variant) |
 
 #### Elven Lineages
 | d8 | Lineage |
@@ -24,6 +25,15 @@
 | 6 | Sea Elf[^👹] |
 | 7 | Shadar-kai[^👹] |
 | 8 | Wood Elf[^📒2️⃣] |
+
+#### Azeroth Elven Lineages
+| d5 | Lineage |
+|:-:|:-|
+| 1 | Blood Elf[^🚾] |
+| 2 | High Elf[^📒2️⃣] |
+| 3 | Night Elf[^🚾] |
+| 4 | Nightborne[^🚾] |
+| 5 | Void Elf[^🚾] |
 
 #### Dragonlance Elves
 | d3 | Variant |
@@ -106,6 +116,7 @@
 
 ---
 
+[^🚾]: Source: _Dungeons & Dragons: World of Warcraft_
 [^⚙️]: Source: _Eberron: Rising from the Last War_
 [^⏳]: Source: _Explorer's Guide to Wildemount_
 [^🌄]: Source: _Lorwyn: First Light_

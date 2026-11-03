@@ -4,10 +4,11 @@
 | d5 | Setting |
 |:-:|:-|
 | 1 | Goblinoid of the Multiverse (roll on **[Goblinoids of the Multiverse](#goblinoids-of-the-multiverse)** table for variant) |
-| 2 | Boggart (roll on **[Boggarts](#boggarts)** table for variant) |
-| 3 | Forgotten Realms Goblinoid (roll on **[Forgotten Realms Goblinoid](#forgotten-realms-goblinoid)** table for variant) |
-| 4 | Ixalan Goblin[^🦕] |
-| 5 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
+| 2 | Azeroth Goblin[^👹] [^🐒] |
+| 3 | Boggart (roll on **[Boggarts](#boggarts)** table for variant) |
+| 4 | Forgotten Realms Goblinoid (roll on **[Forgotten Realms Goblinoid](#forgotten-realms-goblinoid)** table for variant) |
+| 5 | Ixalan Goblin[^🦕] |
+| 6 | Zendikar Goblin (roll on **[Zendikar Goblins](#zendikar-goblins)** table for variant) |
 
 #### Goblinoids of the Multiverse
 | d3 | Variant |
@@ -49,4 +50,4 @@
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^🌴]: Source: _Plane Shift: Zendikar_
-[^🐒]: A Boggart in _Lorwyn: First Light_ is mechanically equivalent to a Goblin in _Mordenkainen Presents: Monsters of the Multiverse_.
+[^🐒]: The Boggart in _Lorwyn: First Light_ and the Azeroth Goblin in _Dungeons & Dragons: World of Warcraft_ are mechanically equivalent to the Goblin in _Mordenkainen Presents: Monsters of the Multiverse_.

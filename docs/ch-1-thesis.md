@@ -8,7 +8,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 ## How to use these tables
 
-1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Aberration**, **Construct**, **Fey**, **Humanoid**, **Monstrosity**, or **Ooze**.
+1. When you cast _Reincarnate_ targeting a dead creature or piece of one, the target can be any creature type represented by a species, ancestry, or variant in any of the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** tables: **Aberration**, **Construct**, **Dragon**, **Fey**, **Humanoid**, **Monstrosity**, **Ooze**, or **Undead**.
 2. After casting _Reincarnate_, roll on the **[Reincarnation Options](ch-2-reincarnate.md#reincarnation-options)** table to determine your species.
 3. If a species has multiple options, that entry will reference a subsequent table to roll on, which will determine your specific variant. If a species has limited variant options in one or more settings, roll for setting, then roll for variant within the resulting setting, or on its multiverse table for general options.
 4. Continue to follow any instructions for rolling on subsequent tables until you reach a final result, which reflects the species of your newly reincarnated body.
@@ -47,6 +47,12 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 **Species with limited options within a given setting roll first for setting, then for either multiverse variant or setting-specific variant.** When a species has limited variant options in one or more settings, a roll is first made to determine the setting, with a multiverse table including all options from _SRD_ or _Player's Handbook_ plus options that do not imply or assume a setting, followed by a separate table per setting. Setting tables are limited to the variant options found in their respective settings. If the GM determines that only a setting's given options are available, roll on the setting-specific variant table. If a setting's options are identical to the multiverse options, or the GM wishes to not use setting-specific options, roll on the multiverse table.
 
 **If a setting book mentions that all options from a specific resource for a given species are available, then the table for each species will include options across all versions of those resources when they differ over time.** This accounts for setting books that attempt to make default species options freely available while considering that these resources are updated over time. When the resource mentioned is a _Player's Handbook_, options from each _SRD_ will also be included.
+
+#### Azeroth
+
+**The Mechagnome is both an updated Autognome and a Gnome lineage.** This reflects the Mechagnome's designation as a Gnome lineage in _Dungeons & Dragons: World of Warcraft_, while also recognizing that it is mechanically an updated Autognome, which does not have lineage affiliations with Gnomes in _Spelljammer: Adventures in Space_.
+
+**The Tauren is a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
 
 #### Eberron
 
