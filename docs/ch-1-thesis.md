@@ -23,11 +23,11 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **The Half-Elf is grouped as an ancestry of the Elf species, and the Half-Orc is grouped as an ancestry of the Orc species.** These two species options have been removed as player options as of _SRD 5.2_, but they will remain in this document, as all species and ancestry options remain supported by the core game rules, even if in older superseded or legacy sources.
 
-**The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, due to their peoples' connections in lore, and in recognition of several variants having a Goblinoid creature tag and the Fey Ancestry trait.
+**Some species are grouped together based on fulfilling similar archetypal fantasy roles and narrative origins.** These include:
 
-**The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
-
-**The Tauren lineages are grouped as a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren in _Dungeons & Dragons: World of Warcraft_ is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
+- **The Boggart, Bugbear, Goblin, Hobgoblin, and Verdan are grouped together as ancestries of a Goblinoid species**, both due to their peoples' connections in lore and in recognition of several variants having a Goblinoid creature tag and the Fey Ancestry trait.
+- **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species.**
+- **The Tauren lineages are grouped as a setting-specific variant of the Minotaur.**
 
 ### Separating
 
@@ -84,7 +84,7 @@ Someone probably does! This document can also just act as a dice-driven randomiz
 
 ---
 
-| 🏡 [Home(index.md)] | [Chapter 2: Reincarnate](ch-2-reincarnate.md) ➡️ |
-|:-|-:|
+| 🏡 [Home](index.md) | [Chapter 2: Reincarnate](ch-2-reincarnate.md) ➡️ |
+|:-:|-:|
 
 ---
