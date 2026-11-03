@@ -72,7 +72,7 @@ _Dungeons & Dragons: World of Warcraft_ © 2026 Wizards of the Coast LLC and Bli
 
 ---
 
-| ⬅️ [Rules Definitions](rules-definitions.md) | 🏡 [Home(index.md)] | [Licensing](licensing.md) ➡️ |
+| ⬅️ [Rules Definitions](rules-definitions.md) | 🏡 [Home](index.md) | [Licensing](licensing.md) ➡️ |
 |:-|:-:|-:|
 
 ---

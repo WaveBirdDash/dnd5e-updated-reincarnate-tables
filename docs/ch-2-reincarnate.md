@@ -178,7 +178,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 ---
 
-| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | 🏡 [Home(index.md)] | [Rules Definitions](rules-definitions.md) ➡️ |
+| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | 🏡 [Home](index.md) | [Rules Definitions](rules-definitions.md) ➡️ |
 |:-|:-:|-:|
 
 ---
