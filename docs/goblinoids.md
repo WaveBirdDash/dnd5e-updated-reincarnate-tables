@@ -50,4 +50,4 @@
 [^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
 [^🦕]: Source: _Plane Shift: Ixalan_
 [^🌴]: Source: _Plane Shift: Zendikar_
-[^🐒]: The Boggart in _Lorwyn: First Light_ and the Azeroth Goblin in _Dungeons & Dragons: World of Warcraft_ are mechanically equivalent to the Goblin in _Mordenkainen Presents: Monsters of the Multiverse_.
+[^🐒]: The Boggart in _Lorwyn: First Light_ and the Azeroth Goblin are mechanically equivalent to the Goblin in _Mordenkainen Presents: Monsters of the Multiverse_.
