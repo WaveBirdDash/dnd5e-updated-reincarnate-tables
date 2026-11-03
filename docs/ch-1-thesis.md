@@ -27,7 +27,7 @@ Additionally, **a Game Master should be empowered to apply custom weighting of r
 
 **The Dhampir, Ixalan Vampire, and Zendikar Vampire are grouped together as ancestries of a Vampire species**, based on the Dhampir fulfilling a similar archetypal fantasy role and narrative origin as Vampires.
 
-**The Tauren is a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
+**The Tauren lineages are grouped as a setting-specific variant of the Minotaur.** This reflects the fact that the base Tauren in _Dungeons & Dragons: World of Warcraft_ is mechanically identical to the Minotaur in _Mordenkainen Presents: Monsters of the Multiverse_ before selecting lineage.
 
 ### Separating
 
