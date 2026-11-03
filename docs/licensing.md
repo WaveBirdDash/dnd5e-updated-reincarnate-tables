@@ -10,7 +10,7 @@ _[System Reference Document 5.2](https://www.dndbeyond.com/srd)_ ("SRD 5.2") © 
 
 ---
 
-| ⬅️ [Credits](credits.md) |
-|:-|
+| ⬅️ [Credits](credits.md) | 🏡 [Home(index.md)] |
+|:-|:-:|
 
 ---

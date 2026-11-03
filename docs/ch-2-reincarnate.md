@@ -64,7 +64,7 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 43 | Loxodon[^🏙️] |
 | 44 | Lupin[^🌫️] |
 | 45 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
-| 46 | Minotaur (roll on **[Minotaurs](minotaurs.md)** table for setting) |
+| 46 | Minotaur (roll on **[Minotaurs](minotaurs.md)** table for ancestry) |
 | 47 | Naga[^☥] |
 | 48 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
 | 49 | Owlin[^🎓] |
@@ -178,8 +178,8 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 ---
 
-| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | [Rules Definitions](rules-definitions.md) ➡️ |
-|:-|-:|
+| ⬅️ [Chapter 1: Thesis](ch-1-thesis.md) | 🏡 [Home(index.md)] | [Rules Definitions](rules-definitions.md) ➡️ |
+|:-|:-:|-:|
 
 ---
 
