@@ -12,12 +12,12 @@ _Level 5 Necromancy (Druid)_
 
 You touch a dead creature or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll on the **Reincarnation Options** table and all subsequent tables to determine the body's species, or the GM chooses another playable species.
 
-The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Aberration**, **Construct**, **Dragon**, **Fey**, **Humanoid**, **Monstrosity**, **Ooze**, or **Undead**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
+The dead creature or piece of one can be any creature type represented by a species, ancestry, or variant in any of the tables below: **Aberration**, **Celestial**, **Construct**, **Dragon**, **Fey**, **Humanoid**, **Monstrosity**, **Ooze**, or **Undead**. For example, a dead creature with the Fey creature type can be targeted because there are Fey species on these tables, such as the Fairy or Satyr, but a dead creature with the Beast creature type cannot be targeted because they are not represented on these tables.
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
 ### Reincarnation Options
-| d69 | Species |
+| d70 | Species |
 |:---:|:-|
 | 1  | If the creature's species is not represented on this table, the body is the same species as it was when it died. If the creature's species is on this table, or if this table is being used to generate a new character's species, roll again. |
 | 2  | Aarakocra[^🙈] |
@@ -25,69 +25,70 @@ The reincarnated creature makes any choices that a species' description offers, 
 | 4  | Aetherborn[^🕰️] |
 | 5  | Autognome[^🚾] [^🤖] |
 | 6  | Aven (roll on **[Aven](#aven)** table for ancestry) |
-| 7  | Centaur[^👹] |
-| 8  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
-| 9  | Dracthyr[^🚾] |
-| 10 | Draenei (roll on **[Eredar Lineages](#eredar-lineages)** table for lineage) |
-| 11 | Dragonborn (roll on **[Dragonborn](dragonborn.md)** table for setting) |
-| 12 | Duskling[^💧] |
-| 13 | Dwarf (roll on **[Dwarves](dwarves.md)** table for setting) |
-| 14 | Earthen[^🚾] |
-| 15 | Elf (roll on **[Elves](elves.md)** table for setting) |
-| 16 | Fairy (roll on **[Fairies](fairies.md)** table for ancestry) |
-| 17 | Firbolg[^👹] |
-| 18 | Flamekin[^🙈] [^☄️] |
-| 19 | Forsaken[^🚾] |
-| 20 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
-| 21 | Giff[^🛸] |
-| 22 | Gith (roll on **[Gith](#gith)** table for ancestry) |
-| 23 | Gnome (roll on **[Gnomes](gnomes.md)** table for setting) |
-| 24 | Goblinoid (roll on **[Goblinoids](goblinoids.md)** table for setting) |
-| 25 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
-| 26 | Grung[^🐸] |
-| 27 | Hadozee[^🛸] |
-| 28 | Halfling (roll on **[Halflings](halflings.md)** table for setting) |
-| 29 | Haranir[^🚾] |
-| 30 | Harengon[^👹] |
-| 31 | Hexblood[^🌫️] |
-| 32 | Human (roll on **[Humans](humans.md)** table for setting) |
-| 33 | Kalashtar[^⚒️] |
-| 34 | Kender[^🫅] |
-| 35 | Kenku[^👹] |
-| 36 | Khenra[^☥] |
-| 37 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
-| 38 | Kobold[^👹] |
-| 39 | Kor[^🌴] |
-| 40 | Leonin[^🏺] |
-| 41 | Lizardfolk[^👹] |
-| 42 | Locathah[^🐟] |
-| 43 | Loxodon[^🏙️] |
-| 44 | Lupin[^🌫️] |
-| 45 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
-| 46 | Minotaur (roll on **[Minotaurs](minotaurs.md)** table for ancestry) |
-| 47 | Naga[^☥] |
-| 48 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
-| 49 | Owlin[^🎓] |
-| 50 | Pandaren[^🚾] |
-| 51 | Plasmoid[^🛸] |
-| 52 | Rimekin[^🌄] |
-| 53 | Reborn[^🌫️] |
-| 54 | Satyr[^👹] |
-| 55 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
-| 56 | Simic Hybrid[^🏙️] |
-| 57 | Siren[^🦕] |
-| 58 | Tabaxi[^👹] |
-| 59 | Thri-kreen[^🛸] |
-| 60 | Tiefling (roll on **[Tieflings](tieflings.md)** table for setting) |
-| 61 | Tortle[^👹] |
-| 62 | Triton[^👹] |
-| 63 | Troll (roll on **[Troll Lineages](#troll-lineages)** table for lineage) |
-| 64 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
-| 65 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
-| 66 | Vulpera[^🚾] |
-| 67 | Warforged[^⚒️] |
-| 68 | Worgen[^🚾] |
-| 69 | Yuan-ti[^👹] |
+| 7  | Bariaur[^💧] |
+| 8  | Centaur[^👹] |
+| 9  | Changeling (roll on **[Changelings](#changelings)** table for ancestry) |
+| 10 | Dracthyr[^🚾] |
+| 11 | Draenei (roll on **[Eredar Lineages](#eredar-lineages)** table for lineage) |
+| 12 | Dragonborn (roll on **[Dragonborn](dragonborn.md)** table for setting) |
+| 13 | Duskling[^💧] |
+| 14 | Dwarf (roll on **[Dwarves](dwarves.md)** table for setting) |
+| 15 | Earthen[^🚾] |
+| 16 | Elf (roll on **[Elves](elves.md)** table for setting) |
+| 17 | Fairy (roll on **[Fairies](fairies.md)** table for ancestry) |
+| 18 | Firbolg[^👹] |
+| 19 | Flamekin[^🙈] [^☄️] |
+| 20 | Forsaken[^🚾] |
+| 21 | Genasi (roll on **[Genasi](#genasi)** table for ancestry) |
+| 22 | Giff[^🛸] |
+| 23 | Gith (roll on **[Gith](#gith)** table for ancestry) |
+| 24 | Gnome (roll on **[Gnomes](gnomes.md)** table for setting) |
+| 25 | Goblinoid (roll on **[Goblinoids](goblinoids.md)** table for setting) |
+| 26 | Goliath (roll on **[Giant Ancestry](#giant-ancestry)**[^🧌] table for ancestry) |
+| 27 | Grung[^🐸] |
+| 28 | Hadozee[^🛸] |
+| 29 | Halfling (roll on **[Halflings](halflings.md)** table for setting) |
+| 30 | Haranir[^🚾] |
+| 31 | Harengon[^👹] |
+| 32 | Hexblood[^🌫️] |
+| 33 | Human (roll on **[Humans](humans.md)** table for setting) |
+| 34 | Kalashtar[^⚒️] |
+| 35 | Kender[^🫅] |
+| 36 | Kenku[^👹] |
+| 37 | Khenra[^☥] |
+| 38 | Kithkin (roll on **[Kithkin](#kithkin)** table for ancestry) |
+| 39 | Kobold[^👹] |
+| 40 | Kor[^🌴] |
+| 41 | Leonin[^🏺] |
+| 42 | Lizardfolk[^👹] |
+| 43 | Locathah[^🐟] |
+| 44 | Loxodon[^🏙️] |
+| 45 | Lupin[^🌫️] |
+| 46 | Merfolk (roll on **[Merfolk](merfolk.md)** table for setting) |
+| 47 | Minotaur (roll on **[Minotaurs](minotaurs.md)** table for ancestry) |
+| 48 | Naga[^☥] |
+| 49 | Orc (roll on **[Orcs](orcs.md)** table for setting) |
+| 50 | Owlin[^🎓] |
+| 51 | Pandaren[^🚾] |
+| 52 | Plasmoid[^🛸] |
+| 53 | Rimekin[^🌄] |
+| 54 | Reborn[^🌫️] |
+| 55 | Satyr[^👹] |
+| 56 | Shifter (roll on **[Shifters](#shifters)** table for ancestry) |
+| 57 | Simic Hybrid[^🏙️] |
+| 58 | Siren[^🦕] |
+| 59 | Tabaxi[^👹] |
+| 60 | Thri-kreen[^🛸] |
+| 61 | Tiefling (roll on **[Tieflings](tieflings.md)** table for setting) |
+| 62 | Tortle[^👹] |
+| 63 | Triton[^👹] |
+| 64 | Troll (roll on **[Troll Lineages](#troll-lineages)** table for lineage) |
+| 65 | Vampire (roll on **[Vampires](#vampires)** table for ancestry) |
+| 66 | Vedalken (roll on **[Vedalken](#vedalken)** table for ancestry) |
+| 67 | Vulpera[^🚾] |
+| 68 | Warforged[^⚒️] |
+| 69 | Worgen[^🚾] |
+| 70 | Yuan-ti[^👹] |
 
 #### Aasimar
 | d5 | Ancestry |
